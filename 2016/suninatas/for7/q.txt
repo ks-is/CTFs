@@ -1,0 +1,17 @@
+for7 - 28
+200pt / PASS : 188
+Do you have a password?
+
+Does it have a real password?
+I am afraid that this challenge is very esay.
+You need not do brute-force
+
+http://suninatas.com/Part_one/web28/So_Simple.zip
+---------------------------------------
+Use NSIS to create "Installer based on ZIP file".
+We can easy extract by run the installer.
+
+There_is_ket.txt: dGE1dHlfSDR6M2xudXRfY29mZmVl
+Base64 Decode
+
+A: "ta5ty_H4z3lnut_coffee" 
