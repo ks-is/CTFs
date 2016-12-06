@@ -1,0 +1,20 @@
+
+	KS.IS TeamCTF Rankings 2015 (First)
+
+	Score					W1	W2	W3	W4	RP	Prize
+--------------------------------------------------------
+4	14182	ncthanh1212		2	6	2	4	14	Champion
+2	14992	Kevin			3	2	3	9	17	2nd
+1	16033	quandainhan		15	1	1	2	19	3rd
+3	14211	tynken0496		1	3	5	12	21	4th
+6	12322	dutule9x		10	5	4	3	22	4th
+5	13551	penguin			4	12	8	1	25
+7	9102	Dungk8			14	4	7	5	30
+[..]
+
+Note: 
+	Number at first column = Rank by Sum-score 
+	Score = Sum-score 
+	Wi = Week i 
+	RP = Ranking point <-- most IMPORTANT 
+

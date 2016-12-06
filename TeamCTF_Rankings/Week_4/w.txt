@@ -1,0 +1,17 @@
+[TeamCTF] [Week_3_Rankings]
+★ Như thường lệ, Top 3 của tuần này (─‿‿─)
+-1- quandainhan (4704)
+-2- ncthanh1212 (3171)
+-3- Kevin (2982)
+★ Các bạn được nộp phạt: minhj, CongNguyen, khanglion (dưới 1k điểm).Mức đóng: 20k/người.
+───────────────────────────────────────────────
+Ghi chú: Tuần 4 bắt đầu từ hôm nay đến hết ngày Thứ 7 (05/12/2015). Mọi người cố gắng làm 2 site Hackthissite và Natas đi nhé. Hết tuần này sẽ tạm dừng Đánh xếp hạng.
+★ Cách tính điểm Xếp hạng tổng kết:
+- Điều kiện: tổng cộng điểm nằm trong Top 5.
+- Xếp hạng dựa vào trung bình cộng số thứ tự xếp hạng theo tuần.
+VD: tuần 1: nhất, tuần 2: nhì, tuần 3: nhất, tuần 4: 6 => Điểm XH = (1+2+1+6)/4 = 2.5. Sau đó xếp theo thứ tự từ trên xuống ứng với Điểm XH từ nhỏ đến lớn. Cùng Điểm XH sẽ dựa vào Tổng điểm.
+★ Cơ cấu Giải thưởng:
+- 1 giải Nhất : Card ĐT 80k 
+- 1 giải Nhì : Card ĐT 60k 
+- 1 giải Ba : Card ĐT 40k 
+- 2 giải Khuyến khích : Card ĐT 20k
