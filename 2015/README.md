@@ -1,3 +1,0 @@
-# 2015
-
-Beta testing...
