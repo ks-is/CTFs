@@ -48,7 +48,7 @@
 
 | No. | Team | Leader | Thành viên | Ghi chú |
 |-----|------|--------|------------|---------|
-| **0xFFFFFFFF** | **Root** | [**TraiOi**](https://github.com/TraiOi) | **1** | **Boss** |
+| **error** | **Root** | [**TraiOi**](https://github.com/TraiOi) | **1** | **Boss** |
 | 1 | Web | | | |
 | 2 | Pwnable | | | |
 | 3 | Reverse Engineering | | | |
