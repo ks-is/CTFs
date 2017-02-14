@@ -4,7 +4,7 @@
 |--------|
 | 20 |
 
-> [we want you](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Forensic/bonus/qrcode.png)
+> [we want you](./qrcode.png)
 
 #### Solution
 

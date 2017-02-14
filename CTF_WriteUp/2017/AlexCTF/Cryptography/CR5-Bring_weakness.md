@@ -7,5 +7,3 @@
 #### WriteUp
 
 (TODO)
-
-#### Another Writeup

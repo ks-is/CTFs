@@ -8,9 +8,9 @@
 >
 > nc winner.svattt.org 31335
 >
-> [winner.c](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Pwnable/winner/winner.c_b18f3a5b052b1730500a2c2b9cd2d4ea07eb1607)
+> [winner.c](./winner.c_b18f3a5b052b1730500a2c2b9cd2d4ea07eb1607)
 >
-> [Binary](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Pwnable/winner/winner_da068d2f8e018be82ded127608e829abb8a31312) 
+> [Binary](./winner_da068d2f8e018be82ded127608e829abb8a31312) 
 >
 > Inspired By [true story](https://goo.gl/FhABtF)
 

@@ -1,7 +1,7 @@
 ## RE2: C++ is awesome
 
 > They say C++ is complex, prove them wrong! <br>
-> File: [re2](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/ReverseEngineering/lib/re2)
+> File: [re2](./lib/re2)
 
 #### WriteUp
 
@@ -55,7 +55,7 @@ Mở file với `radare2`.
 |      `--> 0x00400c95      e8d9feffff     call fcn.00400b73
 ```
 
-Có thể thấy được là mảng các ký tự ở địa chỉ `0x6020a0` được so sánh với một mảng nào đó ở địa chỉ `0x6020c0`, nếu index bằng nhau thì sẽ trả về hàm `fcn.00400b73`. Mình sẽ sử dụng đoạn [script Perl](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/ReverseEngineering/scripts/RE2-Cplusplus_is_awesome.pl) sau để thử.
+Có thể thấy được là mảng các ký tự ở địa chỉ `0x6020a0` được so sánh với một mảng nào đó ở địa chỉ `0x6020c0`, nếu index bằng nhau thì sẽ trả về hàm `fcn.00400b73`. Mình sẽ sử dụng đoạn [script Perl](./scripts/RE2-Cplusplus_is_awesome.pl) sau để thử.
 
 ```perl
 use strict;

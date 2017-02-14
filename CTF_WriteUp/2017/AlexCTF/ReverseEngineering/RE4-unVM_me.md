@@ -1,7 +1,7 @@
 ## RE4: unVM me
 
 > If I tell you what version of python I used .. where is the fun in that? <br>
-> File: [unvm_me.pyc](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/ReverseEngineering/lib/unvm_me.pyc)
+> File: [unvm_me.pyc](./lib/unvm_me.pyc)
 
 #### WriteUp
 
@@ -42,7 +42,7 @@ print 'Congratz now you have the flag'
 
 Then we know the flag is split into 5 characters and convert into md5 hash. We have to brute force to get the flag.
 
-I'm using this [Perl script](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/ReverseEngineering/scripts/RE4-unVM_me.pl) to create a file `md5.hash` includes 13 md5 hashes and get result.
+I'm using this [Perl script](./scripts/RE4-unVM_me.pl) to create a file `md5.hash` includes 13 md5 hashes and get result.
 
 ```
 831daa3c843ba8b087c895f0ed305ce7

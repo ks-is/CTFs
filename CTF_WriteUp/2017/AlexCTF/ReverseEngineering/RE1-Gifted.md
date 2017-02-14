@@ -1,6 +1,6 @@
 ## RE1: Gifted
 
-> File: [gifted](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/ReverseEngineering/lib/gifted)
+> File: [gifted](./lib/gifted)
 
 #### WriteUp
 

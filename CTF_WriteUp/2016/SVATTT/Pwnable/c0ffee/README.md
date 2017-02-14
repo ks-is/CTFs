@@ -10,13 +10,13 @@
 >
 > nc c0ffee.svattt.org 31334
 >
-> [Binary](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Pwnable/c0ffee/c0ffee_2aa0b72dab2abe1012bedbad1c5241b793f64fa8)
+> [Binary](./c0ffee_2aa0b72dab2abe1012bedbad1c5241b793f64fa8)
 > 
-> [libc.so](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Pwnable/c0ffee/libc-2.23.so_aa330c275a6a1bfc25c60a0869d9e56bdfba0634)
+> [libc.so](./libc-2.23.so_aa330c275a6a1bfc25c60a0869d9e56bdfba0634)
 > 
 > <br />
 >
-> Inspired by [true story](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Pwnable/c0ffee/1658414_10201951879997288_7377009056487612570_o.jpg).
+> Inspired by [true story](./1658414_10201951879997288_7377009056487612570_o.jpg).
 
 #### Solution
 

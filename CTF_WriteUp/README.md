@@ -9,9 +9,9 @@
 
 #### List of CTFs:
 
- * [2016](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/README.md)
+ * [2016](./2016/README.md)
 
- * [2017](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/README.md)
+ * [2017](./2017/README.md)
 
 #### List of tools (I use):
 

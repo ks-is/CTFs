@@ -8,8 +8,7 @@
 
 #### WriteUp
 
-Run my [script](https://github.com/TraiOi/CTF_WriteUp/blob/master/2017/AlexCTF/Scripting/scripts/SC1-Math_bot.py):
+Run my [script](./scripts/SC1-Math_bot.py):
 
 `$ python 'lib/SC1-Math_bot.py'`
 
-#### Another Writeup

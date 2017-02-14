@@ -5,5 +5,3 @@
 #### WriteUp
 
 Just `HeartBleed` ...
-
-#### Another Writeup

@@ -4,7 +4,7 @@
 |--------|
 | 100 |
 
-> Trac nghiem: [here](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Forensic/Theory_of_everything/Tr%E1%BA%AFc%20Nghi%E1%BB%87m%20SVATTT2016%20-%20Questions.pdf)
+> Trac nghiem: [here](./Tr%E1%BA%AFc%20Nghi%E1%BB%87m%20SVATTT2016%20-%20Questions.pdf)
 
 #### Solution
 

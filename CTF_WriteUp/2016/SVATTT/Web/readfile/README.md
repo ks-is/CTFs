@@ -6,7 +6,7 @@
 
 > http://readfile.svattt.org:8888/web100.php
 >
-> [http://readfile.svattt.org:8888/web100.php.bak](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Web/readfile/web100.php.bak) 
+> [http://readfile.svattt.org:8888/web100.php.bak](./web100.php.bak) 
 
 #### Solution
 
@@ -19,7 +19,7 @@ So we have a payload
 ```		
   ?filename=flag.php&timestamp=xxxx&sig=0		
 ```
-We can brute-force `xxxx` with some code [payload.py](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Web/readfile/payload.py) then get the flag		 +## Another Writeup
+We can brute-force `xxxx` with some code [payload.py](./payload.py) then get the flag		 +## Another Writeup
   		  
 `SVATTT{N0_m0r3_h4sh_3xtens10n_4tt4ck}`
 

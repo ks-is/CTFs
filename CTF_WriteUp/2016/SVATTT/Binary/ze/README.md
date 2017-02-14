@@ -4,7 +4,7 @@
 |--------|
 | 50 |
 
-> [ze](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Binary/ze/ze)
+> [ze](./ze)
 
 #### Solution
 
@@ -32,7 +32,7 @@ int __cdecl main(int a1, char **a2)
 }
 ```
 
-We know `strlen(v4) == 8` and `stroul(v4, 0, 17) == 53` then convert `53` from base 10 to base 17 with some code [ze.py](https://github.com/TraiOi/CTF_WriteUp/blob/master/2016/SVATTT/Binary/ze/ze.py) and get the flag
+We know `strlen(v4) == 8` and `stroul(v4, 0, 17) == 53` then convert `53` from base 10 to base 17 with some code [ze.py](./ze.py) and get the flag
 
 
 `SVATTT{00000032}`

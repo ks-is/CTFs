@@ -13,5 +13,3 @@
 #### WriteUp
 
 (TODO)
-
-#### Another Writeup
