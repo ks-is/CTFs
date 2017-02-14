@@ -24,6 +24,7 @@
 
 * Thường xuyên cập nhật thông tin về các cuộc thi CTF đang diễn ra.
 * Tài khoản mặc định của nhóm khi login vào các cuộc thi CTF: `KS.IS`.
+* Các thành viên đều có thể cung cấp WriteUp của mình cho nhóm ([Xem thêm](#quy-trình-xét-duỵệt-các-writeup)). 
 * Tổng hợp các đề thi và WriteUp của các cuộc thi CTF đã tham gia ở [Link](./CTF_WriteUp/README.md#list-of-ctfs).
 * Tài khoản của nhóm trên Ctftime [KS.IS](https://ctftime.org/team/34477).
 * Updating ...
