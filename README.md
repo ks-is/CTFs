@@ -26,13 +26,14 @@
 * Tài khoản mặc định của nhóm khi login vào các cuộc thi CTF: `KS.IS`.
 * Tổng hợp các đề thi và WriteUp của các cuộc thi CTF đã tham gia ở [Link](./CTF_WriteUp/README.md#list-of-ctfs).
 * Tài khoản của nhóm trên Ctftime [KS.IS](https://ctftime.org/team/34477).
-* Quy trình xét duỵệt các WriteUp:
-
-  > 1. Các thành viên cung cấp WriteUp cho team Root. <br>
-  > 2. Team Root xét duyệt chọn ra bài viết hay nhất. <br> 
-  > 3. Bài viết hay nhất sẽ được đưa vào danh sách các [CTF WriteUp](./CTF_WriteUp/README.md#list-of-ctfs) ở mục *WriteUp*. <br>
-  > 4. Các bài viết còn lại sẽ được đưa vào mục *Các WriteUp khác*.
 * Updating ...
+
+##### Quy trình xét duỵệt các WriteUp:
+
+> 1. Các thành viên cung cấp WriteUp cho team Root. 
+> 2. Team Root xét duyệt chọn ra bài viết hay nhất. 
+> 3. Bài viết hay nhất sẽ được đưa vào danh sách các [CTF WriteUp](./CTF_WriteUp/README.md#list-of-ctfs) ở mục *WriteUp*. 
+> 4. Các bài viết còn lại sẽ được đưa vào mục *Các WriteUp khác*. 
 
 <a name="CTF-noi-bo"></a>
 ### 3. CTF nội bộ
