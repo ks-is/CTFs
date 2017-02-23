@@ -52,13 +52,13 @@
 | - Link: | Đường dẫn đến giải CTF |
 | - Hình thức thi: | Hình thức thi (Jeopardy hoặc Attack & Defend, Online hoặc Offline)
 | - Thời gian bắt đầu: | Thời gian bắt đầu giải CTF |
-| Thời gian kết thúc: | Thời gian kết thúc giải CTF |
-| Thời gian diễn ra: | Độ dài giải CTF |
+| - Thời gian kết thúc: | Thời gian kết thúc giải CTF |
+| - Thời gian diễn ra: | Độ dài giải CTF |
 | ● Team: | Tên tài khoản chung của nhóm (Mặc định: KS.IS) |
 | ● Pass: | Mật khẩu tài khoản chung của nhóm (Mặc định: ***********)
 | - Hình thức tham gia: | Hình thức tham gia khi tham gia giải CTF (tự tạo tài khoản rồi join vào team hoặc sử dụng trực tiếp tài khoản chung chủa nhóm, sẽ được giải thích rõ ràng khi tạo form) | 
 | ***** |
-| 1. .. | Tên giải CTF thứ  |
+| 2. .. | Tên giải CTF thứ 2 |
 | ... | | |
 | ===================== | |
 | ... | Thông tin thêm |
