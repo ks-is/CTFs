@@ -33,6 +33,8 @@
 
  * [Wireshark](https://www.wireshark.org/): is a free and open source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development.
 
+ * [extundelete](http://extundelete.sourceforge.net/): is a utility that can recover deleted files from an ext3 or ext4 partition
+
 ###### Cryptography
 
   * [John The Ripper](http://www.openwall.com/john/): John the Ripper is a fast password cracker, currently available for many flavors of Unix, Windows, DOS, and OpenVMS. Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix systems, supported out of the box are Windows LM hashes, plus lots of other hashes and ciphers in the community-enhanced version.

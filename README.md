@@ -4,9 +4,11 @@
 >
 > Người viết: TraiOi
 >
-> Lần cuối chỉnh sửa: 14/02/2017
+> Lần cuối chỉnh sửa: 24/02/2017
 
 ## Nội dung
+
+*Đọc kỹ nội quy khi tham gia vào nhóm [Nội quy của nhóm KS.IS CTFs](./Rule.md).*
 
 * **[1. Giới thiệu về CTF](#gioi-thieu-ve-ctf)**
 * **[2. CTF Online](#CTF-online)**
