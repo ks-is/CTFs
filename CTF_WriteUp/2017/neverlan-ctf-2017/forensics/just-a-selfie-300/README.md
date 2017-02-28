@@ -8,7 +8,7 @@
 
 #### WriteUp
 
-- Đề bài cho 1 email dưới dạng source - có nghĩa là một ứng dụng đọc email sẽ đọc hiểu source này để hiển thị ra thông tin và nội dung của email. Một email có định dạng như sau: [1](https://en.wikipedia.org/wiki/Email#Message_format)
+- Đề bài cho 1 email dưới dạng source - có nghĩa là một ứng dụng đọc email sẽ đọc hiểu source này để hiển thị ra thông tin và nội dung của email. Một email có định dạng như sau: [[1](https://en.wikipedia.org/wiki/Email#Message_format)]
 
 - Tóm tắt cách giải:
     + Phân tích source email
@@ -56,7 +56,7 @@ selfie.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 72x72, se
 
 Mở file `selfie.jpg` bằng ứng dụng mở hình ảnh, không thấy thông tin gì khả nghi.
 
-- Theo hint từ đề bài, có thể cần dùng`binwalk` - một tool để xem bên trong 1 file có khả năng chứa nhiều file khác, cách dùng có thể tham khảo ở đây: [2](https://github.com/devttys0/binwalk/wiki/Quick-Start-Guide)
+- Theo hint từ đề bài, có thể cần dùng`binwalk` - một tool để xem bên trong 1 file có khả năng chứa nhiều file khác, cách dùng có thể tham khảo ở đây: [[2](https://github.com/devttys0/binwalk/wiki/Quick-Start-Guide)]
 
 ```
 $ binwalk selfie.jpg 
