@@ -1,0 +1,23 @@
++-------------------------------+
+|	|	|	|	|
+|   9	|   5	|   3	|   2	| One number is correct but wrongly placed
+|	|	|	|	|
+|_______|_______|_______|_______|
+|	|	|	|	|
+|   1	|   6	|   7	|   3 	| Two numbers are correct and correctly placed
+|	|	|	|	|	
+|_______|_______|_______|_______|
+|	|	|	|	|
+|   0	|   6	|   5	|   9	| Two numbers are correct but wrongly placed
+|	|	|	|	|
+|_______|_______|_______|_______|
+|	|	|	|	|
+|   2	|   4	|   3	|   8	| No numbers are correct
+|	|	|	|	|
+|_______|_______|_______|_______|
+|	|	|	|	|
+|   5	|   2	|   4	|   0	| One number is correct and correctly placed
+|	|	|	|	|
+|	|	|	|	|
++-------------------------------+
+
