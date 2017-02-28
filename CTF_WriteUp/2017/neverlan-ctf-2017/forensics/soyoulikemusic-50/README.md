@@ -10,7 +10,7 @@
 $ java SoYouLikeMusic
 ```
 
-- Chương trình chạy được, hỏi một vài câu hỏi gì đó bắt ta trả lời. Khoan hãy quan tâm đến nó, định dạng bytecode có đặc điểm là có khả năng biên dịch ngược (decomplie). Theo [[2](https://en.wikipedia.org/wiki/Decompiler)]:
+- Chương trình chạy được, hỏi một vài câu hỏi gì đó bắt ta trả lời. Khoan hãy quan tâm đến nó, định dạng bytecode có đặc điểm là có khả năng biên dịch ngược (decompile). Theo [[2](https://en.wikipedia.org/wiki/Decompiler)]:
 
 > The bytecode formats used by many virtual machines (such as the Java Virtual Machine or the .NET Framework Common Language Runtime) often include extensive metadata and high-level features that make **decompilation quite feasible**.
 
