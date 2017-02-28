@@ -4,7 +4,7 @@
 > 
 > Hmm.. Binwalk. <br>
 > Now that's a useful tool! <br>
-> [email.txt](./lib/email.txt)
+> [email.txt](email.txt)
 
 #### WriteUp
 

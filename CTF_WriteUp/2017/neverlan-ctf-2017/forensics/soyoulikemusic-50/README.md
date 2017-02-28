@@ -1,6 +1,6 @@
 ## SoYouLikeMusic
 
-> [SoYouLikeMusic.class](./lib/SoYouLikeMusic.class)
+> [SoYouLikeMusic.class](SoYouLikeMusic.class)
 
 #### WriteUp
 
