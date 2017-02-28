@@ -25,7 +25,6 @@
 Content-Transfer-Encoding: base64
 Content-Disposition: inline;
 	filename=selfie.jpg
-	- Được mã hóa: base64
 Content-Type: image/jpeg;
 	x-unix-mode=0644;
 	name="selfie.jpg"
