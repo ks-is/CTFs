@@ -2,9 +2,9 @@
 
 | Category | Numbers | Solved |
 | -------- | ------- | ------ |
-| Forensics | 1 | 1 |
-| Cryptography | 2 | 0 |
-| Mics | 1 | 0 |
-| Pwnable | 2 | 0 |
-| Reverse | 2 | 0 |
-| Web | 2 | 0 |
+| [Forensics](./Forensics/README.md) | 1 | 1 |
+| [Cryptography](./Cryptography/README.md) | 2 | 0 |
+| [Mics](./Mics/README.md) | 1 | 0 |
+| [Pwnable](./Pwnable/README.md) | 2 | 0 |
+| [Reverse](./Reverse/README.md) | 2 | 0 |
+| [Web](./Web/README.md) | 2 | 0 |

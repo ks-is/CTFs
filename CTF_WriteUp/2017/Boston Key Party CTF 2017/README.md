@@ -2,6 +2,6 @@
 
 | Category | Numbers | Solved |
 | -------- | ------- | ------ |
-| Pwn | 7 | 0 |
-| Crypto | 6 | 0 |
-| Cloud | 10 | 0 |
+| [Pwn](./Pwn/README.md) | 7 | 0 |
+| [Crypto](./Crypto/README.md) | 6 | 0 |
+| [Cloud](./Cloud/README.md) | 10 | 0 |
