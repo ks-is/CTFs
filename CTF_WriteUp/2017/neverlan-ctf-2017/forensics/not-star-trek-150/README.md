@@ -4,6 +4,20 @@
 > 
 > [flashdrive.zip](https://drive.google.com/file/d/0BxBb6b3kX1G9NTdLVFR3LXE2Tkk/view)
 
-#### WriteUp
+#### Write-up
 
-(TODO)
+Đề bài cho 1 file `zip`, giải nén ra ta được 1 file `dd` - một định dạng nguyên thủy (raw disk), tức dữ liệu được sao chụp lại (imaging) từ một đĩa cứng ban đầu một cách chính xác (bit-by-bit) bằng tool `dd`. [[1](http://forensicswiki.org/wiki/Dd)]
+
+Thường thì ta sẽ cần khôi phục (recovering) một vài file bị xóa, để tìm được thứ cần tìm.
+
+Hướng dẫn này sẽ sử dụng tool DFF (Digital Forensics Framework) [[2](https://github.com/arxsys/dff)]:
+
+- Mở file `dd` bằng DFF:
+
+<p align="center"><img src="1.png"/></p>
+
+- Tìm kiếm các file bị xóa để tìm dữ liệu khả nghi: (các file bị xóa sẽ hiển thị màu đỏ, các file bắt đầu bằng ký tự `.` là file bị ẩn (hidden file) trong linux).
+
+<p align="center"><img src="2.png"/></p>
+
+- File `_embers.png` chứa flag cần tìm: `flag{you_found_the_rebel_alliance}`

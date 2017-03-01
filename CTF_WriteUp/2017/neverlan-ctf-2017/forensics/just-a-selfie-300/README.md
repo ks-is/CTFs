@@ -6,7 +6,7 @@
 > Now that's a useful tool! <br>
 > [email.txt](email.txt)
 
-#### WriteUp
+#### Write-up
 
 - Đề bài cho 1 email dưới dạng source - có nghĩa là một ứng dụng đọc email sẽ đọc hiểu source này để hiển thị ra thông tin và nội dung của email. Một email có định dạng như sau: [[1](https://en.wikipedia.org/wiki/Email#Message_format)]
 

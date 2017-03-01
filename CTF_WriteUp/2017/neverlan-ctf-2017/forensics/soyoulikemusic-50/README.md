@@ -2,7 +2,7 @@
 
 > [SoYouLikeMusic.class](SoYouLikeMusic.class)
 
-#### WriteUp
+#### Write-up
 
 - Đề bài cho file: `SoYouLikeMusic.class` - đây là định dạng java bytecode [[1](https://en.wikipedia.org/wiki/Java_class_file)]. Có thể thực thi bằng câu lệnh:
 
