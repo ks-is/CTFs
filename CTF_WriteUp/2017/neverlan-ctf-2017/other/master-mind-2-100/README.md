@@ -1,7 +1,7 @@
 ## Master Mind 2
 
 > I've upgraded my lock! Can you solve it? <br>
-> [MasterMind2.txt](./lib/MasterMind2.txt)
+> [MasterMind2.txt](MasterMind2.txt)
 
 #### WriteUp
 

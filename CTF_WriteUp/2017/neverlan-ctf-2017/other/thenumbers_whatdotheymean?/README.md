@@ -1,6 +1,6 @@
 ## TheNumbers_WhatDoTheyMean?
 
-> Download file here: [TheNumbers-WhatDoTheyMean.txt](./lib/TheNumbers-WhatDoTheyMean.txt)
+> Download file here: [TheNumbers-WhatDoTheyMean.txt](TheNumbers-WhatDoTheyMean.txt)
 
 #### WriteUp
 
@@ -15,7 +15,7 @@ traioi$ xxd TheNumbers-WhatDoTheyMean.txt | head -1
 Có thể thấy, file giống như định dạng JPEG, thử đổi đuôi file thành JPEG xem.
 
 <p align="center">
-	<img src="./img/TheNumbers-WhatDoTheyMean.png" alt="TheNumbers-WhatDoTheyMean.txt">
+	<img src="TheNumbers-WhatDoTheyMean.png" alt="TheNumbers-WhatDoTheyMean.txt">
 </p>
 
 Hehe, flag là `jpeg_png_jpg_ico_svg_etc`

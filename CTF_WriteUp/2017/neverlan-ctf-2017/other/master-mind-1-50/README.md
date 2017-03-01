@@ -1,7 +1,7 @@
 ## Master Mind 1
 
 > Can you break my three digit lock?<br>
-> [MasterMind1.txt](./lib/MasterMind1.txt)
+> [MasterMind1.txt](MasterMind1.txt)
 
 #### WriteUp
 
