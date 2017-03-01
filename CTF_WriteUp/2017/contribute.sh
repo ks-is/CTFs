@@ -21,7 +21,7 @@ test ! $# -eq 2 && { echo "Usage: $0 \"comment\" branch"; echo ; exit 1; }
 # Lay du lieu tu repository xuong local
 #git clone git@github.com:h4rdw0rk/CTFs.git
 #cd CTFs/
-#git remote add upstream git@github.com:ks-is/CTFs.git
+git remote add upstream git@github.com:ks-is/CTFs.git
 
 # Lay xuong local cac thay doi tren remote va gop vao chung
 git fetch upstream
