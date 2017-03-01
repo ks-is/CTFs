@@ -10,9 +10,9 @@
 
 Thường thì ta sẽ cần khôi phục (recovering) một vài file bị xóa, để tìm được thứ cần tìm.
 
-Hướng dẫn này sẽ sử dụng tool DFF (Digital Forensics Framework). [[2](https://github.com/arxsys/dff)]
+Hướng dẫn này sẽ sử dụng tool `DFF (Digital Forensics Framework)`. [[2](https://github.com/arxsys/dff)]
 
-- Mở file `dd` bằng DFF:
+- Mở file `img` bằng `DFF`:
 
 <p align="center"><img src="1.png"/></p>
 
