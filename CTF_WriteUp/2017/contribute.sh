@@ -24,11 +24,11 @@ test ! $# -eq 2 && { echo "Usage: $0 \"comment\" branch"; echo ; exit 1; }
 #git remote add upstream git@github.com:ks-is/CTFs.git
 
 # Lay xuong local cac thay doi tren remote va gop vao chung
-#git fetch upstream
-#git merge upstream/master
+git fetch upstream
+git merge upstream/master
 
 # Tao topic branch moi
-#git checkout -b $BRANCH
+git checkout -b $BRANCH
 
 # Day cac thay doi tu local len remote
 git add -A
