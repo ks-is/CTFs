@@ -3,14 +3,14 @@
 # Usage: ./contribute.sh "comment" branch
 # Example: ./contribute.sh "Add write-up neverlan-ctf-2017/web" h4rdw0rk-28022107
 
-# Return old branch if checkout fail
+# Return previous branch if checkout fail
 #git checkout - 
 
 # Delete a branch
 #git branch -D the_local_branch
 #git push origin :the_remote_branch
 
-# If error happen
+# If error happen when delete branch
 #git fetch --prune
 
 COMMENT=$1
