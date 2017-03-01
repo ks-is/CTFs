@@ -2,12 +2,12 @@
 
 | Solved | Challenge | Point |
 | :------: | --------- | ----- |
-|  :heavy_check_mark: | [Encoding Apprentice](1) | 50 |
-|  | [Recon? What’s that??](2) | 50 |
-|  :heavy_check_mark: | [Shifty Ciphers…](3) | 50 |
-|  :heavy_check_mark: | [Know your extensions](4) | 50 |
-|  :heavy_check_mark: | [Mmmm... SSL](5) | 50 |
-|  :heavy_check_mark: | [Don't eat me](6) | 50 |
+|  :heavy_check_mark: | [Encoding Apprentice](#1) | 50 |
+|  | [Recon? What’s that??](#2) | 50 |
+|  :heavy_check_mark: | [Shifty Ciphers…](#3) | 50 |
+|  :heavy_check_mark: | [Know your extensions](#4) | 50 |
+|  :heavy_check_mark: | [Mmmm... SSL](#5) | 50 |
+|  :heavy_check_mark: | [Don't eat me](#6) | 50 |
 
 <a name="1"></a>
 ## Encoding Apprentice
