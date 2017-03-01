@@ -8,4 +8,4 @@
 | [Web](web/README.md) | 4 | 0 |
 | [Trivia](trivia/README.md) | 6 | 5 |
 | [Binary](binary/README.md) | 5 | 0 |
-| [Other](other/README.md) | 5 | 0 |
+| [Other](other/README.md) | 5 | 3 |
