@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to contribute repository https://github.com/ks-is/CTFs/
+# Script to contribute repository https://github.com/ks-is/CTFs/, written by h4rdw0rk
 # Usage: ./contribute.sh "comment" branch
 # Example: ./contribute.sh "Add write-up neverlan-ctf-2017/web" h4rdw0rk-28022107
 # Comments at the below are in Vietnamese
