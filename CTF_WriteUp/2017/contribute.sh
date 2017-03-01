@@ -2,20 +2,20 @@
 # Script to contribute repository https://github.com/ks-is/CTFs/
 # Usage: ./contribute.sh "comment" branch
 # Example: ./contribute.sh "Add write-up neverlan-ctf-2017/web" h4rdw0rk-28022107
+# Comments at the below are in Vietnamese
 
-# Return previous branch if checkout fail
+# Quay lai branch truoc do
 #git checkout - 
 
-# Delete a branch
+# Xoa mot branch
 #git branch -D the_local_branch
 #git push origin :the_remote_branch
 
-# If error happen when delete branch
+# Neu xay ra error khi xoa branch
 #git fetch --prune
 
 COMMENT=$1
 BRANCH=$2
-
 test ! $# -eq 2 && { echo "Usage: $0 \"comment\" branch"; echo ; exit 1; }
 
 # Lay du lieu tu repository xuong local
