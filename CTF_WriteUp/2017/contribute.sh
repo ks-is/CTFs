@@ -32,5 +32,5 @@ test ! $# -eq 2 && { echo "Usage: $0 \"comment\" branch"; echo ; exit 1; }
 
 # Day cac thay doi tu local len remote
 git add -A
-git commit -am "${COMMENT}"
-git push origin ${BRANCH}
+git commit -am "$COMMENT"
+git push origin $BRANCH
