@@ -12,3 +12,4 @@
 | [Boston Key Party CTF 2017](./Boston%20Key%20Party%20CTF%202017/README.md) | http://ctf.bostonkeyparty.net/ | [BostonKeyParty](http://bostonkeyparty.net/) |  2017/02/25 01:00 UTC | 2017/02/27 01:00 UTC |
 | [WhiteHat Challenge 01](./WhiteHat%20Challenge%2001/README.md) | https://wargame.whitehat.vn/ | [WhiteHat VN](https://whitehat.vn/) | 09:00:00, Sat, 25/02/2017 GMT+07 | 17:00:00, Sat, 25/02/2017 GMT+07 |
 | [VolgaCTF 2017 Teaser](./VolgaCTF%202017%20Teaser/README.md) | https://teaser.2017.volgactf.ru/ | [VolgaCTF](https://twitter.com/VolgaCTF) | Feb 25, 2017 4:00 PM | Feb 26, 2017 00:00 AM |
+| [Pragyan CTF](./Pragyan%20CTF/README.md) | https://ctf.pragyan.org/home | [Pragyan](https://www.pragyan.org/17/home/) | 13:00 (IST) March 2, 2017 | 13:00 (IST) March 5, 2017 |
