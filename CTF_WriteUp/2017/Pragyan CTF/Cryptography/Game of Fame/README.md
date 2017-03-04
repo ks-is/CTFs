@@ -7,6 +7,8 @@
 > Example :- If the flag is 'HelloWorld' (without quotes) , input it as pragyanctf{HelloWorld} <br>
 > If the flag is {HelloWorld}, input it as pragyanctf{HelloWorld} <br>
 > If the flag is pragyanctf{HelloWorld}, input it as pragyanctf{HelloWorld}.
+>
+> `Hint! The seven star-studded Pragyan walks into the hall of fame. Boom!`
 
 #### WriteUp
 
