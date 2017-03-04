@@ -22,7 +22,7 @@ BANNER="'##:::'##::'######:::::::'####::'######::\n
 .::::..:::......:::...::....:::......:::\n"
 
 HELP="KS.IS CTF Pull-request Github v0.1\n\n
- usage: ./gitpush [Mode] [CTF name]\n
+ usage: ./gitpush.sh [Mode] [CTF name]\n
 \n
  Mode:\n
   --readme : Updated README.md\n
