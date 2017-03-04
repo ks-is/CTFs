@@ -9,7 +9,9 @@
 > If the flag is pragyanctf{HelloWorld}abc, input it as pragyanctf{HelloWorld}abc.
 > 
 > [The-Path.txt](./The-Path.txt) <br>
-> [The-Beginning.txt](./The-Beginning.txt)
+> [The-Beginning.txt](./The-Beginning.txt) <br>
+> [hexthis.jpg](./hexthis.jpg) <br>
+> [Lock.jpg](./Lock.jpg)
 
 #### WriteUp
 

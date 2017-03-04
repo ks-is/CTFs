@@ -9,6 +9,8 @@
 > If the flag is pragyanctf{HelloWorld}, input it as pragyanctf{HelloWorld}.
 > 
 > [black_is_the_new_rose.png](./black_is_the_new_rose.png)
+>
+> `Hint! Follow the black, follow the hints`
 
 #### WriteUp
 

@@ -9,6 +9,9 @@
 > If the flag is pragyanctf{HelloWorld}, input it as pragyanctf{HelloWorld}. 
 >
 > [fsociety.dat](./fsociety.dat)
+>
+> `Hint! Snakes serve the fsociety. Hmmm.` <br>
+> `Hint! fscociety and evilcorp are too close, even 16 characters long together. Damn`
 
 #### WriteUp
 

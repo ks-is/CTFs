@@ -14,6 +14,9 @@
 > Example :- If the flag is 'HelloWorld' (without quotes) , input it as pragyanctf{HelloWorld}<br>
 > If the flag is {HelloWorld}, input it as pragyanctf{HelloWorld}<br>
 > If the flag is pragyanctf{HelloWorld}, input it as pragyanctf{HelloWorld}. 
+>
+> `Hint! Caesar: "Why do I have to take 5 steps to do everything?"` <br>
+> `Hint! Step up Caesar, Step up.`
 
 #### WriteUp
 

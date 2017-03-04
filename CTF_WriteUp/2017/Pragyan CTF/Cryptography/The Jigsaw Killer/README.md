@@ -11,6 +11,8 @@
 > If the flag is pragyanctf{HelloWorld}, input it as pragyanctf{HelloWorld}. 
 >
 > [clue](./clue)
+>
+> `Hint! jigXOR part seven was worst.`
 
 #### WriteUp
 
