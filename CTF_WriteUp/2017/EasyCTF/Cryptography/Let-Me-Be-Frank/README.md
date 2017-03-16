@@ -1,0 +1,7 @@
+## Let Me Be Frank 
+
+> I was talking to one of my friends but I couldn't quite understand what he was saying. I think it might be important so here it is: `Nwh whdjwh qm uepen, T tjb fsmt tixgi jsrsh sigm gs mpzp xwqf iahxpv iw fslkt. pehgpxf{qtextz_glacz_elt_neinrw_qsg_bums_dcp}`
+
+#### WriteUp
+
+(TODO)
