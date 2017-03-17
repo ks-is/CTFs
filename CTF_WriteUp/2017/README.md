@@ -14,3 +14,4 @@
 | [VolgaCTF 2017 Teaser](./VolgaCTF%202017%20Teaser/README.md) | https://teaser.2017.volgactf.ru/ | [VolgaCTF](https://twitter.com/VolgaCTF) | Feb 25, 2017 4:00 PM | Feb 26, 2017 00:00 AM |
 | [Pragyan CTF](./Pragyan%20CTF/README.md) | https://ctf.pragyan.org/home | [Pragyan](https://www.pragyan.org/17/home/) | 13:00 (IST) March 2, 2017 | 13:00 (IST) March 5, 2017 |
 | [EasyCTF](./EasyCTF/README.md) | https://www.easyctf.com/ | [EasyCTF](https://twitter.com/easyctf) | Tue, 14 March 2017, 02:00 ICT | Tue, 21 March 2017, 02:00 ICT |
+| [ScytheCTF 2017](./ScytheCTF-2017/README.md) | https://backdoor.sdslabs.co/competitions/scythe17/ | [SDSLabs](https://ctftime.org/team/2480) | Fri, 17 March 2017, 19:30 ICT | Sat, 18 March 2017, 07:30 ICT |
