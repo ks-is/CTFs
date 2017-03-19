@@ -15,3 +15,4 @@
 | [Pragyan CTF](./Pragyan%20CTF/README.md) | https://ctf.pragyan.org/home | [Pragyan](https://www.pragyan.org/17/home/) | 13:00 (IST) March 2, 2017 | 13:00 (IST) March 5, 2017 |
 | [EasyCTF](./EasyCTF/README.md) | https://www.easyctf.com/ | [EasyCTF](https://twitter.com/easyctf) | Tue, 14 March 2017, 02:00 ICT | Tue, 21 March 2017, 02:00 ICT |
 | [ScytheCTF 2017](./ScytheCTF-2017/README.md) | https://backdoor.sdslabs.co/competitions/scythe17/ | [SDSLabs](https://ctftime.org/team/2480) | Fri, 17 March 2017, 19:30 ICT | Sat, 18 March 2017, 07:30 ICT |
+| [0CTF 2017 Quals](./0CTF-2017-Quals/README.md) | https://ctf.0ops.net/ | [0ops](https://ctftime.org/team/4419), [Tencent](http://www.tencent.com/) | Sat, 18 March 2017, 07:00 ICT | Mon, 20 March 2017, 07:00 ICT |
