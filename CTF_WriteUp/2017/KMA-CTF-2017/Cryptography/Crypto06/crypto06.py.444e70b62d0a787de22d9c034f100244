@@ -1,0 +1,131 @@
+'''
+    Simple socket server using threads
+'''
+import sys
+import socket
+from thread import *
+from Crypto.Cipher import AES
+import json
+import base64
+from validate_email import validate_email
+HOST = ''
+PORT = 8888
+FLAG = 'KMACTF{*************************}'
+PASSWORD = 'PASSWORDNE'
+key = '****' * 4
+
+
+def padding(message):
+    size = 16 - len(message) % 16
+    if not size:
+        return message + 16 * chr(16)
+
+    pad_char = chr(size)
+    return message + (size) * pad_char
+
+
+def unpadding(message):
+    if len(message) % 16:
+        return "ERROR PADDING\n"
+    return message[:-ord(message[-1])]
+
+
+def encrypt(message, key):
+    return base64.b64encode(AES.new(key, AES.MODE_ECB).encrypt(
+        padding(message))
+    )
+
+
+def decrypt(message, key):
+    text = message.decode('base64')
+    if len(text) % 16:
+        return False, 'ERROR BLOCK\n'
+
+    return True, unpadding(AES.new(key, AES.MODE_ECB).decrypt(text))
+
+
+def get_flag(message):
+    try:
+        params = json.loads(message)
+        if params['user'] == 'GUEST':
+            return 'HELLO GUEST\n'
+
+        elif params['user'] == 'ADMIN':
+            return FLAG + '\n'
+        else:
+            return ('Nice try :)')
+    except Exception as e:
+        return str(e) + '\n'
+
+
+def send_cipher(user, password, email):
+    if not user:
+        return False, "Need User\n"
+    if not password:
+        return False, "Need Password\n"
+    if not validate_email(email) or not email:
+        return False, "invalid email or email should be not empty\n"
+    if user == 'ADMIN':
+        return False, 'Admin shall not pass\n'
+
+    inp = dict(user=user, password=password, email=email)
+    return json.dumps(inp), encrypt(json.dumps(inp), key)
+
+
+def receive_cipher(message):
+    result = decrypt(message, key)
+    if not result[0]:
+        return result[1]
+    print result
+    return get_flag(result[1])
+
+s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+print 'Socket created'
+
+try:
+    s.bind((HOST, PORT))
+except socket.error as msg:
+    print 'Bind failed. Error Code : ' + str(msg[0]) + ' Message ' + msg[1]
+    sys.exit()
+
+
+print 'Socket bind complete'
+
+s.listen(10)
+print 'Socket now listening'
+
+
+def clientthread(conn):
+    conn.send('welcome to the server. Type something and hit enter\n')
+    while True:
+        conn.send('ENCRYPT==y  DECRYPT==n Y/n?\n')
+        command = conn.recv(1024).strip()
+        if command.upper() == 'Y':
+            conn.send('USERNAME:\n')
+            user = conn.recv(1024).strip()
+            conn.send('PASSWORD:\n')
+            password = conn.recv(1024).strip()
+            conn.send('EMAIL:\n')
+            email = conn.recv(1024).strip()
+            cipher_ = send_cipher(user, password, email)
+            if not cipher_[0]:
+                conn.sendall(str(cipher_[1]) + '\n')
+                conn.close()
+                break
+            conn.sendall(str(cipher_[0]) + '\n')
+            conn.sendall(str(cipher_[1]) + '\n')
+            conn.close()
+            break
+        elif command.upper() == 'N':
+            conn.send('GIVE ME THE CIPHER TEXT:\n')
+            cipher_text = conn.recv(4096).strip()
+            conn.sendall(receive_cipher(cipher_text))
+            conn.close()
+            break
+    conn.close()
+
+while True:
+    conn, addr = s.accept()
+    print 'Connected with ' + addr[0] + ':' + str(addr[1])
+    start_new_thread(clientthread, (conn,))
+s.close()
